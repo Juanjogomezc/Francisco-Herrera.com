@@ -71,6 +71,7 @@ footer {
     background: #1E1A13 0% 0% no-repeat padding-box;
     opacity: 0.94;
     padding: 1rem;
+    justify-content: space-evenly;
 }
 
 a{
